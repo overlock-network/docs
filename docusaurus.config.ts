@@ -95,8 +95,9 @@ const config: Config = {
     navbar: {
       title: 'My Site',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Overlock Logo',
+        src: 'img/454826088-5175d00c-1fb9-4efb-a158-b405f91af8d0.png',
+        srcDark: 'img/454826087-c3cb9dfc-9d13-4460-8c3c-bb61ff134e55.png',
       },
       items: [
         {
