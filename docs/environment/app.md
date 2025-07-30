@@ -1,4 +1,10 @@
-# Overlock Environment configuration file 
+---
+id: cfg-file
+title: Configuration file 
+sidebar_position: 0
+---
+
+# Environment configuration file 
 
 Overlock enables you to define and manage your local development environment using a declarative YAML configuration file (by default, `overlock.yaml`). This approach makes it easy to version-control, reload, and share reproducible setups. The configuration covers networking, Kubernetes runtime, storage mounts, and lists of Providers, Configurations, and Functions that are automatically applied when the environment is created. This is ideal for restoring environments after a restart or collaborating with others.
 
